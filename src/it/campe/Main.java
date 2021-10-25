@@ -3,6 +3,7 @@ package it.campe;
 public class Main {
 
     public static void main(String[] args) {
-        //напишите тут ваш код
+        String name, city;
+        int age;
     }
 }
